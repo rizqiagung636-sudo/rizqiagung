@@ -1,0 +1,6 @@
+{
+  "name": "Model Rollout Phase Tracker",
+  "description": "Visual card components organizing rollout phases, feature availability, and staged timelines for Free and Pro users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
